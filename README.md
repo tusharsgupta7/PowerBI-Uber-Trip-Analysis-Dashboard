@@ -8,6 +8,9 @@ The dashboard helps stakeholders make **data-driven decisions** by identifying p
 
 ---
 
+# 📊 Dashboard Structure
+(![imagealt]
+
 ## 🎯 Business Objective
 
 The main objective of this project is to analyze Uber trip data and answer key business questions related to:
@@ -22,11 +25,6 @@ The main objective of this project is to analyze Uber trip data and answer key b
 - 📅 Daily and weekly demand patterns
 
 ---
-
-# 📊 Dashboard Structure
-
-The project consists of **3 main dashboard pages**:
-
 ## 1️⃣ Overview Analysis
 
 The **Overview Dashboard** provides a high-level summary of Uber trip performance.
