@@ -1,5 +1,3 @@
-Absolutely. Here is a **professional GitHub README description** for your Uber Trip Analysis Power BI project. You can directly copy and paste it into `README.md`.
-
 # 🚕 Uber Trip Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
